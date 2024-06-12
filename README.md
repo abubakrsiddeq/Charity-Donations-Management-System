@@ -1,1 +1,0 @@
-# Charity-Donations-Management-System-C-
